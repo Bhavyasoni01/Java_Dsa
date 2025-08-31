@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/contains-duplicate
+// https://leetcode.com/problems/contains-duplicategi
 import java.util.Arrays;
 public class LeetCode1 {
    public static boolean  main(String[] args) {
