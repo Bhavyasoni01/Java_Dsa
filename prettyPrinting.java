@@ -10,6 +10,16 @@ public class prettyPrinting {
 
 
 
+        /*
+        %d: For integers (decimal integers).
+        %f: For floating-point numbers (decimal numbers).
+        %c: For characters.
+        %b: For booleans.
+        %n: For platform-specific line separators. 
+        %s: For strings.
+        */
+
+
 
     }
     
